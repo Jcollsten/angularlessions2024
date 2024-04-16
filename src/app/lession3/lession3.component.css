@@ -1,0 +1,27 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #888;
+  /* width: 60vw; */
+  min-height: 15vw;
+  padding-top: 40px;
+}
+.lession3 {
+  border-radius: 8px;
+  background-color: #999;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 0px 2px 10px #444;
+  padding: 15px;
+}

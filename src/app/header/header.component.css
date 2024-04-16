@@ -1,0 +1,15 @@
+.header {
+  background-color: #c3002f;
+  color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+}
+.angular-icon {
+  background-color: #222;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 0px 20px #333;
+}
